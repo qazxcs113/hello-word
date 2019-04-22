@@ -1,12 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 what ever write something
 dev change
-=======
-what ever write something
->>>>>>> parent of 1528066... Merge branch 'dev2'
-=======
-what ever write something
-dev change
-dev change1
->>>>>>> dev
